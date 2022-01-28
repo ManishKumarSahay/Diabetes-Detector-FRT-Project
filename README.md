@@ -1,9 +1,11 @@
 # Diabetes Detector - Deployment
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.8.5](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
-Project Link (GitHub repository URL): https://github.com/ManishKumarSahay/Diabetes-Detector-FRT-Project
+Project Link (GitHub repository URL): https://github.com/ManishKumarSahay/Diabetes-Detector-Project-Final
 
-Project Demo URL: https://diabetesdetectorfrtproject.azurewebsites.net/
+Project Demo URL: https://diabetesdetectorprojectfinal.azurewebsites.net
+
+Demonstrating Video URL: https://youtu.be/1aRVhhuHWP0
 
 • This repository consists of files required to deploy a ___Web App___ created with ___Flask___ on ___Microsoft Azure___.
 
