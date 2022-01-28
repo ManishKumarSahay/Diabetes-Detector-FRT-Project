@@ -8,6 +8,18 @@ By using the statistical data about how certain aspects like BMI, Glucose level,
 
 Here are the screenshots of the project -
 
+1) Main Page
+
 ![Screenshot (466)](https://user-images.githubusercontent.com/92359983/151565325-77d8ffe0-822e-4430-a4f6-76453b687e0e.png)
+
+
+2) Inserting values in the given fields
+
+![Screenshot (467)](https://user-images.githubusercontent.com/92359983/151566402-b835cf30-2894-49d1-ac51-dc1d18653036.png)
+
+
+3) Result Page
+
+![Screenshot (469)](https://user-images.githubusercontent.com/92359983/151570288-774b1a8a-3c96-4d41-a994-967229377628.jpg)
 
 
