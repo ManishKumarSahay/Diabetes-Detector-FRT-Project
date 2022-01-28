@@ -5,7 +5,8 @@ Project Link (GitHub repository URL): https://github.com/ManishKumarSahay/Diabet
 
 Project Demo URL: https://diabetesdetectorfrtproject.azurewebsites.net/
 
-• This repository consists of files required to deploy a ___Web App___ created with ___Flask___ on ___Microsoft Azure___. # diabetes_detector.
+• This repository consists of files required to deploy a ___Web App___ created with ___Flask___ on ___Microsoft Azure___.
+# diabetes_detector.
 
 The project helps the user to identify whether someone is suffering from diabetes by simply inputting certain values like BMI, Glucose level, Blood pressure etc. with the help of a Kaggle database.
 
